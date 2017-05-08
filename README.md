@@ -1,19 +1,20 @@
 # Dartedb
+Dart Embedded Database.
 
-A library for Dart developers. It is awesome.
+## Authors and Contributors
+* In 2017, Amani Christian Cyrille Alves (@DevAlves1993) founded Dartedb.
 
-## Usage
+## Contacts
 
-A simple usage example:
+* Gmail : [alvesamani@gmail.com] (mailto:alvesamani@gmail.com)
+* Twitter [@cyrilleamani] (https://twitter.com/cyrilleamani)
 
-    import 'package:Dartedb/Dartedb.dart';
+## Contributing
+If you would like to contribute code you can do so through GitHub by forking the repository and sending a pull request.
 
-    main() {
-      var awesome = new Awesome();
-    }
+The list of the contributions which would be welcome.
 
-## Features and bugs
+* Documentation : Participated in the writing of the documentation.
+* Bugs : Report bugs with of issues.
+* Feature : New Feature.
 
-Please file feature requests and bugs at the [issue tracker][tracker].
-
-[tracker]: http://example.com/issues/replaceme
