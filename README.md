@@ -1,5 +1,29 @@
 # Dartedb
-Dart Embedded Database.
+Dartedb is a dart embedded object database base on json and writtern in Dart.
+
+## Contents
+
+- [Getting started](#getting-started)
+- [Documentation](#documentation)
+    * [Connect to database](#connect-to-database)
+    * [Insert documents](#insert-documents)
+    * [Updating documents](#updating-documents)
+    * [Removing documents](#removing-documents)
+    * [Finding documents](#finding-documents)
+
+## Getting started
+
+## Documentation
+
+### Connect to database
+
+### Insert documents
+
+### Updating documents
+
+### Removing documents
+
+### Finding documents
 
 ## Authors and Contributors
 * In 2017, Amani Christian Cyrille Alves (@DevAlves1993) founded Dartedb.
