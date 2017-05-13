@@ -1,3 +1,5 @@
+library dartedb;
+
 import 'dart:async';
 import 'dart:io';
 import 'package:dartedb/src/core/io/action_folder.dart';

@@ -1,3 +1,5 @@
+library dartedb;
+
 import 'dart:io';
 
 abstract class ActionFolder

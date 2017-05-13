@@ -1,3 +1,5 @@
+library dartedb;
+
 import 'dart:async';
 import 'dart:io';
 
