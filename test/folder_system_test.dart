@@ -1,6 +1,5 @@
 import 'dart:io';
-import 'package:unittest/unittest.dart';
-import 'package:unittest/vm_config.dart';
+import 'package:test/test.dart';
 import 'package:dartedb/src/core/io/folder_system.dart';
 
 void main() {

@@ -27,6 +27,7 @@ class WriterFile extends ActionFileSystem
     {
       List<File> list = new List<File>();
       listUrl.forEach((s) => list.add(create(s)));
+      return list;
     }
     return null;
   }
