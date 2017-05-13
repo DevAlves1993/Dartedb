@@ -10,8 +10,13 @@ class ReaderFile extends ActionFileSystem
   }
 
   @override
-  File createSeveral(List<String> listUrl) {
+  List<File> createSeveral(List<String> listUrl) {
     // TODO: implement createSeveral
+  }
+
+  @override
+  bool fileExist(String url) {
+    // TODO: implement fileExist
   }
 
   @override
@@ -24,18 +29,4 @@ class ReaderFile extends ActionFileSystem
     // TODO: implement deleteSeveral
   }
 
-  @override
-  bool fileExist(String url) {
-    // TODO: implement fileExist
-  }
-
-  @override
-  File open(String url) {
-    // TODO: implement open
-  }
-
-  @override
-  File openWithMode(String url, FileMode mode) {
-    // TODO: implement openWithMode
-  }
 }
