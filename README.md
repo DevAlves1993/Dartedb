@@ -11,6 +11,8 @@ Dartedb is a dart embedded object database base on Json and written in Dart.
     * [Removing documents](#removing-documents)
     * [Finding documents](#finding-documents)
 
+#General
+
 ## Getting started
 
 Install the module locally:
