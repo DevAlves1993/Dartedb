@@ -1,5 +1,5 @@
 # Dartedb
-Dartedb is a dart embedded object database base on json and writtern in Dart.
+Dartedb is a dart embedded object database base on Json and written in Dart.
 
 ## Contents
 
@@ -12,6 +12,12 @@ Dartedb is a dart embedded object database base on json and writtern in Dart.
     * [Finding documents](#finding-documents)
 
 ## Getting started
+
+Install the module locally:
+```
+dependencies:
+   dartedb: ^0.0.1
+```
 
 ## Documentation
 
